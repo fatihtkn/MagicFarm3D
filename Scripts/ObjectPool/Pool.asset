@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 820d5cef696e7da419cc6afd85a785eb, type: 3}
+  m_Name: Pool
+  m_EditorClassIdentifier: 
+  leafList:
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  - {fileID: 2239688173569868500, guid: fdbc5ff3a8fbf2449890e6c82f06eb70, type: 3}
+  orbList:
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  - {fileID: 1612617781672194853, guid: 3270cd2d93ff44a44b65abc0e9a5a824, type: 3}
+  potionList:
+  - {fileID: 1379191477371952619, guid: 7f2823e26dd737049a1c1d7ae97a2e8d, type: 3}
+  - {fileID: 5452461970049528335, guid: ffa9c89f2f4e087458175b2be58edd47, type: 3}
+  - {fileID: 3139259210783402584, guid: ddc92650d764227498754837cadb3f6f, type: 3}
+  - {fileID: 1379191477371952619, guid: 7f2823e26dd737049a1c1d7ae97a2e8d, type: 3}
+  - {fileID: 5452461970049528335, guid: ffa9c89f2f4e087458175b2be58edd47, type: 3}
+  - {fileID: 3139259210783402584, guid: ddc92650d764227498754837cadb3f6f, type: 3}
+  - {fileID: 1379191477371952619, guid: 7f2823e26dd737049a1c1d7ae97a2e8d, type: 3}
+  - {fileID: 5452461970049528335, guid: ffa9c89f2f4e087458175b2be58edd47, type: 3}
+  - {fileID: 3139259210783402584, guid: ddc92650d764227498754837cadb3f6f, type: 3}
+  - {fileID: 1379191477371952619, guid: 7f2823e26dd737049a1c1d7ae97a2e8d, type: 3}
